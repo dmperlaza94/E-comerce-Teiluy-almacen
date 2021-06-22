@@ -1,0 +1,15 @@
+.carousel-item img {
+  height: 650px;
+}
+.jumbotrom {
+  background-color: pink;
+  background-image: url(../imagenes/jumbotron.jpg);
+  height: 300px;
+}
+.jumbotrom img {
+  width: 100px;
+}
+.productos img {
+  height: 300px;
+  width: 350px;
+}
